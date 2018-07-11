@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CShape">
+    <Position X="2.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAgJACAAAIAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRectangle">
+    <Position X="3.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAgBQAQAAIAAQAAAAEAAAAAAAAAADAAAA=</HashCode>
+      <FileName>CRectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCircle">
+    <Position X="0.5" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAgAAAAAAIAAAAAAAEIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CCircle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEllipse">
+    <Position X="0.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgJIAAAAIAAAAAAAEAAAAAAAAAADAIBA=</HashCode>
+      <FileName>CEllipse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSquare">
+    <Position X="3.5" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAgAAAAAAAAAAAAAAEAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>CSquare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
